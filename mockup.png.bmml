@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1517" measuredH="713" mockupW="928" mockupH="699">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2003" measuredH="713" mockupW="1731" mockupH="699">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="589" y="14" w="564" h="699" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -128,24 +128,66 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::Arrow" x="1228" y="454" w="119" h="10" measuredW="150" measuredH="100" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Image" x="1217" y="333" w="140" h="105" measuredW="77" measuredH="79" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="51" controlTypeID="com.balsamiq.mockups::Image" x="1217" y="333" w="140" h="105" measuredW="77" measuredH="79" zOrder="33" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="1268" y="311" w="-1" h="-1" measuredW="39" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="1268" y="311" w="-1" h="-1" measuredW="39" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <text>filmpje</text>
       </controlProperties>
     </control>
-    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="834" y="518" w="-1" h="-1" measuredW="74" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="834" y="518" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>best%20recipes</text>
+        <text>Most%20viewed</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::iPhone" x="272" y="17" w="338" h="696" measuredW="282" measuredH="573" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::SearchBox" x="351" y="156" w="198" h="-1" measuredW="120" measuredH="25" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Button" x="370" y="204" w="142" h="27" measuredW="104" measuredH="27" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>time%20effiecent</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Button" x="370" y="241" w="142" h="27" measuredW="105" measuredH="27" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>cost%20effiecent</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Button" x="370" y="276" w="142" h="27" measuredW="53" measuredH="27" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>diner</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Button" x="370" y="311" w="142" h="27" measuredW="79" measuredH="27" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>breakfast</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Button" x="363" y="350" w="157" h="27" measuredW="96" measuredH="27" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Type%20of%20food</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::HelpButton" x="990" y="160" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="42" locked="false" isInGroup="-1"/>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::HelpButton" x="1406" y="158" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="43" locked="false" isInGroup="-1"/>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Button" x="363" y="392" w="157" h="27" measuredW="96" measuredH="27" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Inpur%20here.....</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::iPhone" x="1439" y="14" w="564" h="699" measuredW="282" measuredH="573" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
       </controlProperties>
     </control>
   </controls>
